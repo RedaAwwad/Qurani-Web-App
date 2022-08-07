@@ -2,10 +2,9 @@
 
 [Preview the app](https://nuxtjs.org)
 
-**Note** >> you can see [Qurani v1](https://github.com/RedaAwwad/Qurani)
-
-
 **Qurani** is an Islamic Web Application that includes many featuers that are important for every Muslim in his daily life.
+
+**Note** >> you can see [Qurani v1](https://github.com/RedaAwwad/Qurani)
 
 ## Build Setup
 
